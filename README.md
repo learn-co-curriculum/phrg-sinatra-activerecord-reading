@@ -80,4 +80,4 @@ Remember, the purpose of this reading is to help you understand which controller
 
 ![](https://i.imgur.com/4o3Qtrv.png)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/sinatra-activerecord-reading'>ActiveRecord in Sinatra</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Sinatra and Active Record CRUD</p>

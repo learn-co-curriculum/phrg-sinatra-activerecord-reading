@@ -80,4 +80,7 @@ Remember, the purpose of this reading is to help you understand which controller
 
 ![](https://i.imgur.com/4o3Qtrv.png)
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-sinatra-activerecord-reading/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-sinatra-activerecord-reading/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Sinatra and Active Record CRUD</p>
